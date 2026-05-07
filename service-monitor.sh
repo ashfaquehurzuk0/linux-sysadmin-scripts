@@ -1,6 +1,5 @@
 #!/bin/bash
 # Checks if a service is running. Restarts it if not.
-# Usage: ./service-monitor.sh nginx
 
 SERVICE=$1
 
